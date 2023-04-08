@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+h2{
+    margin: 15px;
+    padding: 20px;
+}  
+div{
+    margin: 15px;
+    padding: 15px;
+}
+.card{
+    width:200px;
+    margin: 5px;
+}
+.btn-success{
+    margin: 30px;
+    padding: 30px;
+}
+.green-alert {
+    background-color: #93d130;
+    color: black;
+  }
